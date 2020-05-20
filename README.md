@@ -1,2 +1,2 @@
 # bashrc
-Scritp personal para el Prompt -- Shell
+Script personal para el Prompt -- Shell
